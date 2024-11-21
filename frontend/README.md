@@ -44,8 +44,6 @@ export function exampleDiv() {
   > creates a production build und serves it in a webserver.
 - **npm run dev**
   > runs the setup in development modus (no bundles are build)
-- **npm run swagger**
-  > generates types and function based on the swagger.json in the plugins resource folder (start the plugin first with the jira:run target, that the swagger.json gets generated)
 - **npm run eslint**
   > runs eslint as linter to find problems
 - **npm run prettier**
